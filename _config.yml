@@ -73,14 +73,14 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://avatars.githubusercontent.com/u/92013663?s=400&u=3c22085672eb65c559823479b9b47d040ed0eec4&v=4'
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
