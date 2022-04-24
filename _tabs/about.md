@@ -41,7 +41,7 @@ You can find and get touch with me on these accounts!
 
 ##
 <p align="center">
-https://github.com/anuraghazra/github-readme-stats"> 
-https://github-readme-stats.vercel.app/api?username=shayansec&&show_icons=true&theme=radical"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=shayansec&&show_icons=true&theme=radical"/>
 </a>
 </p>
