@@ -23,10 +23,10 @@ timezone: Asia/Kolkata
 
 title: shayansec                        # the main title
 
-tagline: Bugbounty hunter - CTF Player - Security Research   # it will display as the sub-title
+tagline: Bugbounty hunter - CTF Player - Security Researcher   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Bugbounty hunter - CTF Player - Security Research
+  Bugbounty hunter - CTF Player - Security Researcher
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://shayansec.github.io'
