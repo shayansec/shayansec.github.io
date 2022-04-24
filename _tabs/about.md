@@ -22,7 +22,7 @@ order: 4
 ### Hobbies
 - 🔰 Playing Games
 - 🔰 Watching animes, sci-fi movies
-- 🔰 Listening Hip-Hop
+- 🔰 Listening Hip-Hop/raps
 
 ## Personal Intro
 I am just an average guy who was not a techie at all. I loves to listen hip-hop and hard rock so much in my high school. One day while scrolling Youtube one video grab my attention, it was about **bug hunting** and getting **$$$**.
@@ -47,10 +47,11 @@ You can find and get touch with me on these accounts!
 - 🔰 [Instagram](https://www.instagram.com/shayansec_)
 - 🔰 [Hackerone](https://hackerone.com/shayansec)
 - 🔰 [Bugcrowd](https://bugcrowd.com/shayansec)
+- 🔰 [Medium](https://medium.com/@shayansec)
 
-##
+
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=shayansec&&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shayansec&theme=radical&show_icons=true"/>
 </a>
 </p>
