@@ -48,7 +48,7 @@ social:
     - https://github.com/shayansec      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/shayansec
 
 google_site_verification:               # fill in to your verification string
 
@@ -80,10 +80,10 @@ theme_mode:   [dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://avatars.githubusercontent.com/u/92013663?s=400&u=3c22085672eb65c559823479b9b47d040ed0eec4&v=4'
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://avatars.githubusercontent.com/u/92013663?s=400&u=3c22085672eb65c559823479b9b47d040ed0eec4&v=4'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
