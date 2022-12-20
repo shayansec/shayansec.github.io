@@ -25,7 +25,7 @@ order: 4
 - 🔰 Listening music
 
 ## Personal Intro
-Hi I am Shayan Paul, a cybersecurity enthusiast and bug bounty hunter. Currentlty focusing on Web App pentesting.
+Hi!! I am Shayan Paul, a cybersecurity enthusiast and bug bounty hunter. Currentlty focusing on Web App pentesting.
 
 ## Resources I Follow
 - 🔰 [Web Security Academy](https://portswigger.net/web-security/learning-path)
